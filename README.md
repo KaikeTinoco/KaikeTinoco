@@ -21,7 +21,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/g68GcDz33nAAAAAC/toji-toji-fushiguro.gif"  />
 
 ###
 
@@ -34,11 +33,11 @@
   </a>
 </div>
 
-[![Spotify](https://novatorem-net4s3irn-kaike-tinocos-projects.vercel.app/api/spotify)](https://open.spotify.com/user/Kaik)
+<img align="right" height="150" src="https://media1.tenor.com/m/g68GcDz33nAAAAAC/toji-toji-fushiguro.gif"  />
 
 
 ###
 
+[![Spotify](https://novatorem-net4s3irn-kaike-tinocos-projects.vercel.app/api/spotify.py)](https://open.spotify.com/user/31jxvpmjlvdcnh5tdf2eazzjyjmu)
 
-  
-###
+
