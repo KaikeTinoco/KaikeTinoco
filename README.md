@@ -36,6 +36,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/KaikeTinoco/KaikeTinoco/output/snake.svg" alt="Snake animation" />
-
 ###
