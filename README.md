@@ -35,5 +35,8 @@
 </div>
 
 ###
+[![Spotify](https://novatorem-net4s3irn-kaike-tinocos-projects.vercel.app/api/spotify)](https://open.spotify.com/user/Kaik)
 
+
+  
 ###
