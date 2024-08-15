@@ -38,6 +38,6 @@
 
 ###
 
-[![Spotify](https://novatorem-net4s3irn-kaike-tinocos-projects.vercel.app/api/spotify.py)](https://open.spotify.com/user/31jxvpmjlvdcnh5tdf2eazzjyjmu)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jxvpmjlvdcnh5tdf2eazzjyjmu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
