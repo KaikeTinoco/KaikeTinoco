@@ -29,14 +29,14 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="kaikdev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=My%20Discord%20ID&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <video src="https://img.shields.io/static/v1?message=My%20Discord%20ID&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
 
-<img align="right" height="150" src="https://media1.tenor.com/m/g68GcDz33nAAAAAC/toji-toji-fushiguro.gif"  />
 
 
 ###
+<img  align='right' height='150' src="https://64.media.tumblr.com/43252763af9a46691db02e25908b32e7/f85cf4e2e258c6b8-79/s540x810/455f5ec33f5d76573d08a510145709246aaabe81.gifv"  />
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jxvpmjlvdcnh5tdf2eazzjyjmu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
