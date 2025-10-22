@@ -50,4 +50,3 @@ Minha stack é orientada a soluções de Back-end, Automação e Infraestrutura.
 
 ---
 
-![snake gif](https://github.com/KaikeTinoco/KaikeTinoco/blob/output/github-snake-dark.svg)
