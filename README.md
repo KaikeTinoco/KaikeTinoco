@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Olá! Eu sou o Kaike</h1>
 
-## 👨‍💻 Sobre Mim: Engenheiro de Software
+## 👨‍💻 Sobre Mim: 
 
 Sou **Kaike Tinoco Nantes**, um desenvolvedor com foco em **Back-end** e especialização em construir sistemas robustos e eficientes. Possuo conhecimentos complementares sólidos em **Inteligência Artificial** e **Automação de Processos** (RPA/Workflow Automation).
 
@@ -16,7 +16,6 @@ Minha paixão reside na arquitetura e implementação de **APIs RESTful** escal�
 
 ## 💻 Stack de Tecnologia e Ferramentas
 
-Minha stack é orientada a soluções de Back-end, Automação e Infraestrutura.
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
@@ -26,12 +25,14 @@ Minha stack é orientada a soluções de Back-end, Automação e Infraestrutura.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/HEAD/assets/logo/n8n-logo.svg" height="40" alt="n8n" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"  height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"  height="40" />
 </p>
 
 ---
 
-## 🌐 Conecte-se Comigo: Networking Profissional
+## 🌐 Conecte-se Comigo:
 
 
 <p align="center">
