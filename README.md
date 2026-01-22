@@ -36,7 +36,7 @@ Minha paixão reside na arquitetura e implementação de **APIs RESTful** escal�
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kaike-tinoco-5928792b9/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="www.linkedin.com/in/kaiketinocon"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
 </p>
 
 ---
