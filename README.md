@@ -36,7 +36,9 @@ Minha paixão reside na arquitetura e implementação de **APIs RESTful** escal�
 
 
 <p align="center">
-  <a href="www.linkedin.com/in/kaiketinocon"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://www.linkedin.com/in/kaiketinocon" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
 </p>
 
 ---
