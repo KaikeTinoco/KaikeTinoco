@@ -7,9 +7,9 @@ Sou **Kaike Tinoco Nantes**, um desenvolvedor com foco em **Back-end** e especia
 Minha paixão reside na arquitetura e implementação de **APIs RESTful** escaláveis. Sigo rigorosamente padrões de design como **MVC** (Model-View-Controller) ou arquiteturas baseadas em camadas, como **Controller, Service e Repository**. Priorizo a qualidade do código, a cobertura de **testes unitários** e a otimização contínua de regras de negócio.
 
 - 🎯 **Foco de Especialização:** Arquitetura de Microservices, Otimização de Regras de Negócio, Containers (Docker), Servidores e Gerenciamento de Banco de Dados.
-- 📚 **Formação:** Cursando o último ano do Ensino Médio.
+- 📚 **Formação:** Cursando Análise e Desenvolvimento de Sistemas
 - 💡 **Interesses:** Integração e Automação de Workflows com ferramentas como n8n, implementação de práticas de **DevOps** (com foco em AWS e Azure) e Padrões de Microservices.
-- 🌍 **Idiomas:** Português (nativo) / Inglês (fluente) / Alemão (iniciante).
+- 🌍 **Idiomas:** Português (nativo) e Inglês (fluente)
 - 📍 **Localização:** Campo Grande - MS, Brasil.
 
 ---
@@ -37,7 +37,6 @@ Minha paixão reside na arquitetura e implementação de **APIs RESTful** escal�
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaike-tinoco-5928792b9/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="kaiketinocon@outlook.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
 
 ---
